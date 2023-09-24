@@ -1,0 +1,65 @@
+[16-Aug-2023 09:32:32 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "(" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 103
+[16-Aug-2023 09:32:57 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 104
+[16-Aug-2023 09:33:03 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting identifier or variable or "{" or "$" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 104
+[16-Aug-2023 09:33:03 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting identifier or variable or "{" or "$" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 104
+[16-Aug-2023 09:33:28 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting identifier or variable or "{" or "$" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 104
+[16-Aug-2023 09:33:28 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting identifier or variable or "{" or "$" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 104
+[16-Aug-2023 09:33:32 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 104
+[16-Aug-2023 09:33:40 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 104
+[16-Aug-2023 09:33:40 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 104
+[16-Aug-2023 09:33:48 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 104
+[16-Aug-2023 09:33:48 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 104
+[16-Aug-2023 09:33:57 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 104
+[16-Aug-2023 09:33:57 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 104
+[16-Aug-2023 09:33:57 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 104
+[16-Aug-2023 09:34:09 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 104
+[16-Aug-2023 09:34:09 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 104
+[16-Aug-2023 09:34:33 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 104
+[16-Aug-2023 09:34:57 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 104
+[16-Aug-2023 09:35:33 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 104
+[16-Aug-2023 09:37:12 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "(" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/User.php on line 144
+[16-Aug-2023 12:36:26 UTC] PHP Parse error:  syntax error, unexpected integer "1", expecting "]" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Helpers/helper.php on line 286
+[16-Aug-2023 12:36:27 UTC] PHP Parse error:  syntax error, unexpected integer "1", expecting "]" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Helpers/helper.php on line 286
+[16-Aug-2023 12:37:26 UTC] PHP Parse error:  syntax error, unexpected integer "1", expecting "]" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Helpers/helper.php on line 286
+[16-Aug-2023 12:37:26 UTC] PHP Parse error:  syntax error, unexpected integer "1", expecting "]" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Helpers/helper.php on line 286
+[16-Aug-2023 12:37:26 UTC] PHP Parse error:  syntax error, unexpected integer "1", expecting "]" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Helpers/helper.php on line 286
+[16-Aug-2023 13:36:25 UTC] PHP Parse error:  syntax error, unexpected token "return" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Helpers/helper.php on line 290
+[16-Aug-2023 13:36:25 UTC] PHP Parse error:  syntax error, unexpected token "return" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Helpers/helper.php on line 290
+[16-Aug-2023 13:48:17 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Notifications.php on line 12
+[16-Aug-2023 13:48:22 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "user_id", expecting "]" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Notifications.php on line 13
+[16-Aug-2023 13:48:25 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "user_id", expecting "]" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Notifications.php on line 13
+[16-Aug-2023 13:48:31 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Notifications.php on line 19
+[16-Aug-2023 15:26:19 UTC] PHP Parse error:  syntax error, unexpected token "=>" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Helpers/helper.php on line 196
+[16-Aug-2023 15:26:19 UTC] PHP Parse error:  syntax error, unexpected token "=>" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Helpers/helper.php on line 196
+[16-Aug-2023 16:04:33 UTC] PHP Fatal error:  Cannot redeclare App\Models\User::current_working() in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/User.php on line 147
+[16-Aug-2023 16:04:33 UTC] PHP Fatal error:  Cannot redeclare App\Models\User::current_working() in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/User.php on line 147
+[16-Aug-2023 16:04:39 UTC] PHP Fatal error:  Cannot redeclare App\Models\User::current_working() in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/User.php on line 147
+[16-Aug-2023 16:04:39 UTC] PHP Fatal error:  Cannot redeclare App\Models\User::current_working() in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/User.php on line 147
+[16-Aug-2023 16:04:43 UTC] PHP Fatal error:  Cannot redeclare App\Models\User::current_working() in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/User.php on line 147
+[16-Aug-2023 16:05:55 UTC] PHP Fatal error:  Cannot redeclare App\Models\User::current_working() in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/User.php on line 147
+[16-Aug-2023 16:05:55 UTC] PHP Fatal error:  Cannot redeclare App\Models\User::current_working() in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/User.php on line 147
+[16-Aug-2023 16:09:25 UTC] PHP Parse error:  syntax error, unexpected token "->", expecting ";" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/User.php on line 149
+[16-Aug-2023 16:09:28 UTC] PHP Parse error:  syntax error, unexpected token "->", expecting ";" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/User.php on line 149
+[16-Aug-2023 16:09:28 UTC] PHP Parse error:  syntax error, unexpected token "->", expecting ";" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/User.php on line 149
+[16-Aug-2023 16:09:34 UTC] PHP Parse error:  syntax error, unexpected token ",", expecting ";" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/User.php on line 149
+[16-Aug-2023 16:09:34 UTC] PHP Parse error:  syntax error, unexpected token ",", expecting ";" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/User.php on line 149
+[17-Aug-2023 10:52:55 UTC] PHP Fatal error:  Cannot redeclare App\Models\User::scopetypeseeker() in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/User.php on line 82
+[17-Aug-2023 14:45:48 UTC] PHP Parse error:  syntax error, unexpected token "{" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 110
+[17-Aug-2023 14:45:48 UTC] PHP Parse error:  syntax error, unexpected token "{" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 110
+[17-Aug-2023 15:28:25 UTC] PHP Parse error:  syntax error, unexpected token "return" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 118
+[17-Aug-2023 15:38:31 UTC] PHP Fatal error:  Cannot redeclare App\Models\Jobs::is_job_favorites() in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 118
+[17-Aug-2023 15:38:33 UTC] PHP Fatal error:  Cannot redeclare App\Models\Jobs::is_job_favorites() in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 118
+[17-Aug-2023 15:38:40 UTC] PHP Fatal error:  Cannot redeclare App\Models\Jobs::scopeIsJobFavorite() in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 122
+[17-Aug-2023 15:38:48 UTC] PHP Fatal error:  Cannot redeclare App\Models\Jobs::scopeIsJobFavorite() in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 122
+[17-Aug-2023 16:10:52 UTC] PHP Parse error:  syntax error, unexpected token "return", expecting ";" or "{" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 114
+[17-Aug-2023 16:10:52 UTC] PHP Parse error:  syntax error, unexpected token "return", expecting ";" or "{" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 114
+[18-Aug-2023 04:39:31 UTC] PHP Fatal error:  Cannot redeclare App\Models\Jobs::favorites() in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 117
+[18-Aug-2023 04:39:39 UTC] PHP Fatal error:  Cannot redeclare App\Models\Jobs::scopeIsJobFavorite() in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 121
+[18-Aug-2023 05:42:29 UTC] PHP Fatal error:  Cannot redeclare App\Models\Jobs::scopeAvailable() in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 23
+[18-Aug-2023 09:43:15 UTC] PHP Parse error:  syntax error, unexpected token "," in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/User.php on line 149
+[19-Aug-2023 05:23:44 UTC] PHP Fatal error:  Cannot redeclare App\Models\Jobs::scopePostedOn() in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Jobs.php on line 109
+[19-Aug-2023 05:54:26 UTC] PHP Fatal error:  Cannot redeclare App\Models\Resumes::getImageUrlAttribute() in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/Resumes.php on line 17
+[19-Aug-2023 06:34:40 UTC] PHP Parse error:  Unmatched '}' in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/JobApplications.php on line 44
+[21-Aug-2023 05:25:38 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Helpers/helper.php on line 155
+[21-Aug-2023 05:25:38 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Helpers/helper.php on line 155
+[23-Aug-2023 07:09:46 UTC] PHP Fatal error:  Cannot redeclare App\Models\User::scopeAvailable() in /home/u589366820/domains/vrajtechnosys.in/public_html/layto/app/Models/User.php on line 78

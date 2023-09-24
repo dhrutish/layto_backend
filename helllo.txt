@@ -1,0 +1,25 @@
+Categories
+-- display industry name
+
+Skills
+-- display Category name
+
+Advertising
+-- Allow Image, Gif, Video Files
+-- add title field (add and update)
+
+News feed , notify users
+-- set editor for descrition
+
+Notify users
+ -- set option to select Seekers, providers, both,
+-- other -- custom emails
+
+Job provider details
+-- Display address with Click (Modal)
+
+Transactions
+-- display transaction ID
+
+
+===>  Check for xls and xlsx export file format

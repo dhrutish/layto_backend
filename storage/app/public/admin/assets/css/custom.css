@@ -1,0 +1,162 @@
+.form-group {
+    margin-bottom: 1rem;
+}
+.hidden{
+    display: none;
+}
+/* For Bootstrap Toast Costomization --- START */
+.toast-container .toast.show.text-danger {
+    box-shadow: 4px 4px var(--layto-danger);
+}
+.toast-container .toast.show.text-success {
+    box-shadow: 4px 4px var(--layto-success);
+}
+.toast-container .toast.show {
+    animation: slideIn 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+}
+@keyframes slideIn {
+    0% {
+        transform: translateX(100%) translateY(0%);
+    }
+    100% {
+        transform: translateX(0%) translateY(0%);
+    }
+}
+@keyframes moveLeft {
+    0% {
+        transform: translateX(0%);
+    }
+    20% {
+        transform: translateX(-10%);
+    }
+    100% {
+        transform: translateX(0%);
+    }
+}
+/* For Bootstrap Toast Costomization --- END */
+
+/* Preloader --- Start */
+#preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(15px);
+    z-index: 9999;
+}
+#preloader #loader {
+    height: 20%;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    position: absolute;
+}
+#preloader #loader #corners {
+    fill: none;
+    stroke-width: 7;
+    stroke: var(--layto-secondary);
+    stroke-dasharray: 25;
+    animation: ANIMATE_DASH infinite 1.5s ease;
+    -webkit-animation: ANIMATE_DASH infinite 1.5s ease;
+}
+#l_sign {
+    fill: none;
+    stroke: var(--layto-primary);
+    stroke-width: 4;
+    stroke-dasharray: 50;
+    animation: ANIMATE_L 1.5s infinite ease;
+    -webkit-animation: ANIMATE_L infinite 1.5s ease;
+}
+@keyframes ANIMATE_DASH {
+    100% {
+        stroke-dashoffset: -50;
+    }
+}
+@keyframes ANIMATE_L {
+    100% {
+        stroke-dashoffset: 100;
+    }
+}
+/* Preloader --- End */
+/* Datatables Start */
+.form-control.search-input {
+    margin-right: 1rem;
+}
+.badge-icon-size {
+    height: 12.8px;
+    width: 12.8px;
+}
+.filter-toolbar + label{
+    background-color: white;
+    color: var(--layto-primary);
+    border:1px solid var(--layto-primary);
+}
+.filter-toolbar:checked +label,
+.filter-toolbar:hover +label{
+    background-color: var(--layto-primary);
+    color: white;
+}
+/* Datatables End*/
+/* Profile -- Start */
+.profile-upload {
+    position: relative;
+    max-width: 90px;
+    /* margin: 0 auto; */
+}
+
+.profile-upload .profile-edit {
+    position: absolute;
+    left: 100%;
+    z-index: 1;
+    bottom: 10px;
+}
+
+.profile-upload .profile-edit input + label {
+    display: inline-block;
+    width: 34px;
+    height: 34px;
+    margin-bottom: 0;
+    border-radius: 100%;
+    background: var(--bs-white);
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+    font-weight: 400;
+    transition: 0.2s ease-in-out;
+}
+
+.profile-upload .profile-preview {
+    width: 120px;
+    height: 120px;
+    position: relative;
+    border-radius: 100%;
+    box-shadow: 0 0 10px 0 rgb(0 0 0 / 25%);
+}
+
+.profile-upload .profile-preview img {
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+}
+
+#imagepreview {
+    width: 120px;
+    height: 120px;
+}
+/* Profile -- End */
+/* Sweeltalert -- Start */
+.swal2-popup.swal2-show {
+    border-radius: 30px;
+}
+/* Sweeltalert -- End */
+/* Flatpickr -- Start */
+.flatpickr-months .flatpickr-prev-month {
+    left: 0 !important;
+}
+.flatpickr-months .flatpickr-next-month {
+    right: 0 !important;
+}
+/* Flatpickr -- End */
